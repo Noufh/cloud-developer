@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Udagram Image Filtering Microservice
 
 ## Tasks
@@ -38,3 +39,7 @@ Prevent requests without valid authentication headers.
 
 Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
+=======
+# cloud-developer
+content for Udacity's cloud developer nanodegree
+>>>>>>> 648bd58e69ba4027628761dca7a5cb8ab2b87ec8
